@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+tr td{
+	border:1px solid black;
+}
+.first {
+	width:200px;
+}
+.middle{
+	width:600px;
+}
+.last{
+	width:200px;
+}
