@@ -1,13 +1,9 @@
-/*  your css code here. If applicable */
-tr td{
-	border:1px solid black;
+table {
+  width: 100%;
+  border-collapse: collapse;
 }
-.first {
-	width:200px;
-}
-.middle{
-	width:600px;
-}
-.last{
-	width:200px;
+
+td {
+  border: 1px solid black;
+  text-align: center;
 }
